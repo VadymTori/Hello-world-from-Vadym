@@ -1,3 +1,3 @@
 # Hello-world-from-Vadym
-First repository from Vadym
+# To improve is to change.
 I preffer :wishkey: ☕, and :cream:
